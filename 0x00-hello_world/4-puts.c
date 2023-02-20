@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * programe to print line without using printf
+ * main - entry point
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
